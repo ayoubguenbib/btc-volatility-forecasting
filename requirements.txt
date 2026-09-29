@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+requests
+scipy
+statsmodels
+arch
+xgboost>=2.0
+torch
