@@ -79,7 +79,7 @@ The weekend coefficient implies about 46% lower variance (≈ 27% lower volatili
 ## Reproduce
 
 ```bash
-git clone https://github.com/guenbibayoub6-creator/btc-volatility-forecasting.git
+git clone https://github.com/ayoubguenbib/btc-volatility-forecasting.git
 cd btc-volatility-forecasting
 pip install -r requirements.txt
 python src/01_data.py        # download + realized variance (~5 min)
